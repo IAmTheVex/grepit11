@@ -1,4 +1,3 @@
-
 from labyrinth import BotAI
 
 class Bot(BotAI):
